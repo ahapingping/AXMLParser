@@ -8,6 +8,6 @@ Usage:
 
 > java -jar AXMLPrinter.jar  binaryxmlfile
 
-»ò
+or
 
 > cat binaryxmlfile | java -jar AXMLPrinter.jar
